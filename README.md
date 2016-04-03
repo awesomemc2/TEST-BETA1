@@ -1,2 +1,2 @@
 # TEST-BETA1
-head on to:awesomemc2.github.io/test-beta1
+head on to:http://awesomemc2.github.io/TEST-BETA1
